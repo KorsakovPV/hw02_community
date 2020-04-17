@@ -7,7 +7,7 @@ User = get_user_model()
 #Создать модель сообщества по имени Group.
 class Group(models.Model):
     title = models.CharField(max_length=200)
-    slug = models.SlugField() #Большой вопрос. 
+    slug = models.SlugField(max_length=200, unique=True) #Большой вопрос. 
     description = models.TextField()
 
     def __str__(self):
