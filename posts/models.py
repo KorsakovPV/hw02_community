@@ -27,3 +27,6 @@ class Post(models.Model):
                               null=True,
                               verbose_name='Group',
                               related_name='group_posts')
+
+    def __str__(self):
+        return self.text
