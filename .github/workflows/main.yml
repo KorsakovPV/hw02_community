@@ -1,4 +1,4 @@
-name: hw_python_oop
+name: hw02_community
 
 on: [push]
 
