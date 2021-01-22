@@ -1,7 +1,7 @@
 # backend_community_homework
 hw02_community
 
-[![hw_python_oop-app workflow](https://github.com/KorsakovPV/hw02_community/workflows/hw02_community/badge.svg)](https://github.com/KorsakovPV/hw02_community/actions)
+[![hw02_community-app workflow](https://github.com/KorsakovPV/hw02_community/workflows/hw02_community/badge.svg)](https://github.com/KorsakovPV/hw02_community/actions)
 
 Учебный проект на Django
 
